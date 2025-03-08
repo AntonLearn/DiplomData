@@ -1,7 +1,7 @@
 retailer: Продавец_2
 categories:
   - id: 1
-    name: Телефоны
+    name: Смартфоны
   - id: 2
     name: Ноутбуки
   - id: 3
