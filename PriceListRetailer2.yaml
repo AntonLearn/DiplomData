@@ -1,0 +1,110 @@
+retailer: Продавец_2
+categories:
+  - id: 1
+    name: Телефоны
+  - id: 2
+    name: Ноутбуки
+  - id: 3
+    name: Телевизоры
+  - id: 4
+    name: Аудиотехника
+  - id: 5
+    name: Фотокамеры
+goods:
+  - id: 211
+    category: 1
+    model: PTP-N49
+    name: Смартфон HONOR Magic7 Pro 12/512GB Gray
+    price: 129999
+    price_rrc: 139999
+    quantity: 50
+    parameters:
+      "Экран": 6.8
+      "Оперативная память": 12
+      "Встроенная память": 512
+      "Цвет": серый
+  - id: 212
+    category: 1
+    model: iPhone 13
+    name: Смартфон Apple iPhone 13 128GB nanoSim/eSim Blue
+    price: 59999
+    price_rrc: 74999
+    quantity: 75
+    parameters:
+      "Тип экрана": Super Retina XDR
+      "Основная камера": 12/12
+      "Фронтальная камера": 12
+      "SIM карты": 1 nano-SIM/1 eSim
+  - id: 221
+    category: 2
+    model: B12UCR-1024XRU
+    name: Ноутбук игровой MSI Katana 17/17.3/Core i5-12450H/8/512/RTX3050/NoOS/Black
+    price: 84999
+    price_rrc: 99999
+    quantity: 10
+    parameters:
+      "Экран": 17.3
+      "SSD": 512
+      "Оперативная память": 8
+      "Цвет": черный
+  - id: 222
+    category: 2
+    model: 911 X Wild Hunter G2 Pro
+    name: Ноутбук игровой Thunderobot 911 X Wild Hunter G2 Pro/15.6/Core i5-12450H/16/512/RTX 4060/Win/Grey
+    price: 104999
+    price_rrc: 134999
+    quantity: 10
+    parameters:
+      "Экран": 15.6
+      "Веб-камера": HD
+      "Корпус": пластик/металл
+      "Цвет": серый
+  - id: 231
+    category: 3
+    model: U7NQ
+    name: Телевизор Hisense 55U7NQ
+    price: 79999
+    price_rrc: 119999
+    quantity: 40
+    parameters:
+      "Диагональ": 55
+      "Формат экрана": 16:9
+      "Технология": QLED
+      "Цвет": угольно-серый
+  - id: 232
+    category: 3
+    model: Haier S2
+    name: Телевизор Haier 32 Smart TV S2
+    price: 16999
+    price_rrc: 20999
+    quantity: 150
+    parameters:
+      "Диагональ": 32
+      "Технология экрана": LED
+      "Формат экрана": 16:9
+      "Яркость": 220
+      "Цвет": черный
+  - id: 241
+    category: 4
+    model: Elfin Lite
+    name: Видеопроектор для домашнего кинотеатра XGIMI WK03C (Elfin Flip)
+    price: 49999
+    price_rrc: 54999
+    quantity: 25
+    parameters:
+      "Контрастность": 1000000:1
+      "Формат": 16:9
+      "Световой поток": 15000 
+      "Корпус": пластик
+      "Цвет": бежевый
+  - id: 251
+    category: 5
+    model: Instax Mini 12
+    name: Фотоаппарат моментальной печати Fujitsu Instax Mini 12 Blue
+    price: 11999
+    price_rrc: 13999
+    quantity: 20
+    parameters:
+      "Размер фотографии": 62х46
+      "Оптика": Fujifilm
+      "Цвет": голубой
