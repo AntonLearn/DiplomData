@@ -1,0 +1,95 @@
+retailer: Продавец_1
+categories:
+  - id: 1
+    name: Смартфоны
+  - id: 2
+    name: Ноутбуки
+  - id: 3
+    name: Телевизоры
+  - id: 4
+    name: Аудиотехника
+goods:
+  - id: 111
+    category: 1
+    model: SM-A356F
+    name: Смартфон Galaxy A35 5G 8/128GB Blue Black
+    price: 32999
+    price_rrc: 37999
+    quantity: 100
+    parameters:
+      "Экран": 6.6
+      "Оперативная память": 8
+      "Встроенная память": 128
+      "Цвет": темно-синий
+  - id: 112
+    category: 1
+    model: Redmi 13
+    name: Смартфон Xiaomi Redmi 13 8/256GB Midnight Black
+    price: 14499
+    price_rrc: 19999
+    quantity: 200
+    parameters:
+      "Процессор": MediaTek Hellio G91
+      "Основная камера": 108/2
+      "Фронтальная камера": 13
+      "SIM карты": 2 nano-SIM
+  - id: 121
+    category: 2
+    model: B12UCR-1024XRU
+    name: Ноутбук игровой MSI Katana 17/17.3/Core i5-12450H/8/512/RTX3050/NoOS/Black
+    price: 84999
+    price_rrc: 99999
+    quantity: 10
+    parameters:
+      "Экран": 17.3
+      "SSD": 512
+      "Оперативная память": 8
+      "Цвет": черный
+  - id: 122
+    category: 2
+    model: E1504GA-BQ562
+    name: Ноутбук ASUS E1504GA-BQ562/15.6/Intel Core i3 N305/8/256/NoOS/Black
+    price: 31999
+    price_rrc: 39999
+    quantity: 15
+    parameters:
+      "Экран": 15.6
+      "Веб-камера": HD
+      "Корпус": пластик
+      "Цвет": черный
+  - id: 131
+    category: 3
+    model: VHIX
+    name: Телевизор HI 50U239MSA
+    price: 21999
+    price_rrc: 36999
+    quantity: 25
+    parameters:
+      "Диагональ": 50
+      "Формат экрана": 16:9
+      "Технология": LED
+      "Цвет": черный
+  - id: 132
+    category: 3
+    model: 55Z670ME
+    name: Телевизор Toshiba 55Z670ME
+    price: 69999
+    price_rrc: 99999
+    quantity: 10
+    parameters:
+      "Диагональ": 55
+      "Технология экрана": QLED
+      "Формат экрана": 16:9
+      "Яркость": 500
+      "Цвет": черный
+  - id: 141
+    category: 4
+    model: LHD657
+    name: Система домашнего кинотеатра LG LHD657
+    price: 34999
+    price_rrc: 37999
+    quantity: 15
+    parameters:
+      "Мощность": 1000
+      "Корпус": пластик
+      "Цвет": черный
